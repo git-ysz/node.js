@@ -2,9 +2,9 @@
 
 # Node.js 入门
 
-> 作者：李鹏周
+> 作者：姚树壮
 
-- 联系：lpzmail@163.com
+- 联系：976776565@qq.com
 
-[GitHub](https://github.com/lipengzhou/nodejs-tutorial)
+[GitHub](https://github.com/git-ysz/nodejs-tutorial)
 [Get Started](README)

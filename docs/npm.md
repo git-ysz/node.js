@@ -178,7 +178,7 @@ npm config list
 这个文件可以通过 `npm init` 的方式来自动初始化出来。
 
 ```javascript
-C:\Users\lpz\Desktop\npm-demo>npm init
+C:\Users\Y\Desktop\npm-demo>npm init
 This utility will walk you through creating a package.json file.
 It only covers the most common items, and tries to guess sensible defaults.
 
@@ -196,9 +196,9 @@ entry point: (index.js) main.js 项目入口
 test command: 测试命令，暂且不用关系
 git repository: 仓库地址
 keywords: 关键字，如果是一个开源项目，则可以填一些关键字被别人在 npm 中搜索到
-author: lipengzhou 项目的开发者
+author: yaoshuzhuang 项目的开发者
 license: (ISC) 开源协议
-About to write to C:\Users\lpz\Desktop\npm-demo\package.json:
+About to write to C:\Users\Y\Desktop\npm-demo\package.json:
 
 {
   "name": "npm-demo",
@@ -208,7 +208,7 @@ About to write to C:\Users\lpz\Desktop\npm-demo\package.json:
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "lipengzhou",
+  "author": "git-ysz",
   "license": "ISC"
 }
 
