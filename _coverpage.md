@@ -6,5 +6,5 @@
 
 - 联系：976776565@qq.com
 
-[GitHub](https://github.com/git-ysz/nodejs-tutorial)
+[GitHub](https://github.com/git-ysz)
 [Get Started](README)
